@@ -9,11 +9,11 @@ This **𝐭𝐨𝐨𝐥** allowed me to dive into the following concepts:
 
 ### Screenshots
 
-Path: Open Unity -> Go to Window -> Open Character Designer
-![Path](/Screenshots/Path.png)
-Character Designer Tool:
-![Character Designer Tool](/Screenshots/CharacterDesignerTool.png)
-Subclass Selection
-![Subclass Selection](/Screenshots/SubclassSelection.png)
-Tweak Attributes
+Path: Open Unity -> Go to Window -> Open Character Designer <br />
+![Path](/Screenshots/Path.png) <br />
+Character Designer Tool: <br />
+![Character Designer Tool](/Screenshots/CharacterDesignerTool.png) <br />
+Subclass Selection <br />
+![Subclass Selection](/Screenshots/SubclassSelection.png) <br />
+Tweak Attributes <br />
 ![Tweak Attributes](/Screenshots/TweakAttributes.png)
