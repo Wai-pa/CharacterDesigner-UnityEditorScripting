@@ -13,7 +13,7 @@ This **𝐭𝐨𝐨𝐥** allowed me to dive into the following concepts:
 ![Path](/Screenshots/Path.png) <br />
 #### Character Designer Tool: <br />
 ![Character Designer Tool](/Screenshots/CharacterDesignerTool.png) <br />
-#### Subclass Selection <br />
+#### Subclass Selection: <br />
 ![Subclass Selection](/Screenshots/SubclassSelection.png) <br />
-#### Tweak Attributes <br />
+#### Tweak Attributes: <br />
 ![Tweak Attributes](/Screenshots/TweakAttributes.png)
